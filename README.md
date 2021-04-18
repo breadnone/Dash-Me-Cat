@@ -1,5 +1,7 @@
 # Dash-Me-Cat
-Another Endless-Runner kinda game, made with Unity3D.  
+Another Endless-Runner kinda game, made with Unity3D.
+
+![Alt text](https://github.com/breadnone/Dash-Me-Cat/blob/main/Assets/picsAll/yyyyy.png "Dash Me Cat - In game screenshot")
 
 # Featuring  
 - All of the gameobjects(projectiles, obstacles etc) were made to be reusable.
