@@ -11,6 +11,7 @@ Another Endless-Runner kinda game, made with Unity3D.
 Remove URP! Bloom is expensive on mobiles! (Unity has lied to us!)
 
 # Requirements:
+Unity 2020 or later
 Universal Render Pipeline (v10.4.0 or later)  
 
 # Copyright
